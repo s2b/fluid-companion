@@ -10,6 +10,8 @@ is compatible with TYPO3 12 and 13.
 composer req --dev praetorius/fluid-companion
 ```
 
+or via [TER](https://extensions.typo3.org/extension/fluid_companion).
+
 ## Available Console Commands
 
 * `vendor/bin/typo3 fluid:namespaces`: Lists registered global Fluid namespaces
